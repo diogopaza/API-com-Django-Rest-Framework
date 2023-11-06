@@ -5,6 +5,9 @@
 <p><strong>docker run -p 8000:8000 diogopaza/api-saude-django-rest</strong></p>
 
 <h3>Para rodar a aplicação desenvolvida via download do GitHub:</h3>
+<p>Clonar o repositorio:</p>
+<p><strong>git clone https://github.com/diogopaza/API-com-Django-Rest-Framework</strong></p>
+<p>Acessar a pasta do projeto</p>
 
 <h3>Frameworks:</h3>
 <ul>
