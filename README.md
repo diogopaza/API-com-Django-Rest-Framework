@@ -8,11 +8,12 @@
 <h4>Bibliotecas:</h4>
  <ul>
     <li>uuid</li>
-    <li></li>
+    <li>validate_docbr</li>
+    <li>re</li>
  </ul>
  <h4>Rotas</h4>
    <p><strong>Verbo POST</strong> <br>
-   http://127.0.0.1:8000/pessoa-profissional/ - cadastra uma nova Pessoa Profissional</p>
+   http://127.0.0.1:8000/pessoa-profissional/ - rota para cadastrar uma nova Pessoa Profissional. Campos cpf, possue validação através da biblioteca validate-docbr, com isso é necessário passar um cpf válido para cadastrar a pessoa profissional, bem como o celular também possue validação sendo necessário um celular como este: 11 88855-4444.</p>
   
     {
       "nome": "diogo",
