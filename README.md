@@ -7,7 +7,12 @@
 <h3>Para rodar a aplicação desenvolvida via download do GitHub:</h3>
 <p>Clonar o repositorio:</p>
 <p><strong>git clone https://github.com/diogopaza/API-com-Django-Rest-Framework</strong></p>
-<p>Acessar a pasta do projeto</p>
+<p>Acessar a pasta do projeto, criar o ambiente virtual e ativar o ambiente virtual seguindo os comandos abaixo</p>
+<p><strong>python -m vev venv</strong></p>
+<p><strong> source venv/Scripts/activate</strong></p>
+<p>Por ultimo baixar as bibliotecas e rodar a aplicacao:</p>
+<p><strong>pip install -r requirements.txt</strong></p>
+<p><strong>python manage.py runserver</strong></p>
 
 <h3>Frameworks:</h3>
 <ul>
