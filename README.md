@@ -27,7 +27,7 @@
    <p><strong>Verbo DELETE</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para excluir uma  Pessoa Profissional. </p>
 
-   <h3>Rotas Consultas</h3>
+   <h3>Rotas para a entidade Consulta</h3>
   <p><strong>Verbo GET</strong> <br>
    http://localhost:8000/consultas/ - listar todas as Consultas cadastradas.</p>
     <p><strong>Verbo POST</strong> <br>
