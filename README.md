@@ -38,10 +38,13 @@
    http://localhost:8000/consultas/ - listar todas as Consultas cadastradas.</p>
     <p><strong>Verbo POST</strong> <br>
    http://127.0.0.1:8000/consultas/ - rota para cadastrar uma nova Consulta. O Json abaixo mostra o formato com os campois necessários para incluir uma nova consulta, sendo necessário uma data e um id de uma Pessoa Profissional cadastrada .</p>
+
+   ```
   {
     "data_consulta": "2023-11-18",
     "pessoa_profissional": "5526fc9d-b714-42d6-9225-c00f4873da77"
   }
+ ```
    
   
  
