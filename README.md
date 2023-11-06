@@ -44,6 +44,10 @@
    http://127.0.0.1:8000/consultas/idDaConsulta/ - rota para atualizar os dados de uma Consulta. </p>
    <p><strong>Verbo DELETE</strong> <br>
    http://127.0.0.1:8000/consultas/idDaConsulta/ - rota para excluir uma Consulta. </p>
+
+   <h3>Consultar todas as consultas de uma Pessoa Profissional</h3>
+   <p><strong>Verbo GET</strong> <br>
+   http://127.0.0.1:8000/consultas-por-profissional/idDoProfissional/ - rota para buscar todas as consultas de um profissional, subistituir o idDoProfissional por um valor inteiro de um id do profissional.</p>
    
   
  
