@@ -22,10 +22,10 @@
       "data_nascimento": "1990-05-06"
     }
 
-  <p><strong>Verbo PUT</strong> <br>
-   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional -  rota para atualizar os dados de uma  Pessoa Profissional. </p>
+  <p><strong>Verbo PATCH</strong> <br>
+   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional/ -  rota para atualizar os dados de uma  Pessoa Profissional. </p>
    <p><strong>Verbo DELETE</strong> <br>
-   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para excluir uma  Pessoa Profissional. </p>
+   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional/ - rota para excluir uma  Pessoa Profissional. </p>
 
    <h3>Rotas para a entidade Consulta</h3>
   <p><strong>Verbo GET</strong> <br>
