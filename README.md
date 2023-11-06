@@ -11,8 +11,8 @@
     <li></li>
  </ul>
  <h4>Rotas</h4>
-    <p><strong>Verbo POST</strong></p>
-   <p>http://127.0.0.1:8000/pessoa-profissional/ - cadastra uma nova Pessoa Profissional</p>
+   <p><strong>Verbo POST</strong> <br>
+   http://127.0.0.1:8000/pessoa-profissional/ - cadastra uma nova Pessoa Profissional</p>
   
     {
       "nome": "diogo",
