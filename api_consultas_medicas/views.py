@@ -1,3 +1,6 @@
-from django.shortcuts import render
+from django.http import JsonResponse
+from api_consultas_medicas.admin import Alunos
 
-# Create your views here.
+def alunos(request):
+    if request.method == 'GET':        
+        return JsonResponse(Alunos)
