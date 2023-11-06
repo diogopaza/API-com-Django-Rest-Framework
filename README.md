@@ -27,7 +27,7 @@
     }
 
      <p><strong>Verbo PUT</strong> <br>
-   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para atualizar od dados de uma  Pessoa Profissional. </p>
+   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para atualizar os dados de uma  Pessoa Profissional. </p>
   
  
 
