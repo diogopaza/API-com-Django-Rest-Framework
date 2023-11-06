@@ -41,9 +41,9 @@
  ```
 
 <p><strong>Verbo PATCH</strong> <br>
-   http://127.0.0.1:8000/consultas/ - rota para atualizar os dados de uma Consulta. </p>
+   http://127.0.0.1:8000/consultas/idDaConsulta/ - rota para atualizar os dados de uma Consulta. </p>
    <p><strong>Verbo DELETE</strong> <br>
-   http://127.0.0.1:8000/consultas/ - rota para excluir uma Consulta. </p>
+   http://127.0.0.1:8000/consultas/idDaConsulta/ - rota para excluir uma Consulta. </p>
    
   
  
