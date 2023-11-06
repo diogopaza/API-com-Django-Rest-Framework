@@ -1,6 +1,6 @@
 # API-com-Django-Rest-Framework
 
-<h4>Frameworks:</h4>
+<h3>Frameworks:</h3>
 <ul>
   <li>Django</li>
   <li>Django Rest Framework</li>
@@ -11,7 +11,7 @@
     <li>validate_docbr</li>
     <li>re</li>
  </ul>
- <h4>Rotas</h4>
+ <h4>Rotas da Pessoa Profissional</h4>
    <p><strong>Verbo POST</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/ - rota para cadastrar uma nova Pessoa Profissional. Campo cpf, possue validação através da biblioteca validate-docbr, com isso é necessário passar um cpf válido para cadastrar a pessoa profissional, bem como o celular também possue validação sendo necessário um celular como este: 11 88855-4444.</p>
   
@@ -30,6 +30,8 @@
    http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional -  rota para atualizar os dados de uma  Pessoa Profissional. </p>
    <p><strong>Verbo DELETE</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para excluir uma  Pessoa Profissional. </p>
+
+   <h3>Rotas Consultas</h3>
   
  
 
