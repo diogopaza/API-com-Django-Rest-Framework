@@ -19,7 +19,7 @@
     {
       "nome": "diogo",
       "nome_social": "diogo-teste",
-      "cpf": "123456789",
+      "cpf": "56630352068",
       "celular": "45 99999-55511",
       "especialidade": "medico",
       "idade": 23,
