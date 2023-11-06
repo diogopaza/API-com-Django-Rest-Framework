@@ -14,8 +14,7 @@
  <h4>Rotas</h4>
    <p><strong>Verbo POST</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/ - rota para cadastrar uma nova Pessoa Profissional. Campo cpf, possue validação através da biblioteca validate-docbr, com isso é necessário passar um cpf válido para cadastrar a pessoa profissional, bem como o celular também possue validação sendo necessário um celular como este: 11 88855-4444.</p>
-   <p><strong>Verbo PUT</strong> <br>
-   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para atualizar od dados de uma  Pessoa Profissional. </p>
+  
   
     {
       "nome": "diogo",
@@ -26,6 +25,9 @@
       "idade": 23,
       "data_nascimento": "1990-05-06"
     }
+
+     <p><strong>Verbo PUT</strong> <br>
+   http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para atualizar od dados de uma  Pessoa Profissional. </p>
   
  
 
