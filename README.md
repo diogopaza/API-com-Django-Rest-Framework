@@ -1,7 +1,7 @@
 # API-com-Django-Rest-Framework
 
 <h3>Para rodar a aplicação desenvolvida via Docker:</h3>
-<p>É possível executar a aplicação diretamente via container docker com o comando abaixo, importante lembrar que a porta 8000 da maquina onde sera executada a acao nao pode estar em uso.</p>
+<p>É possível executar a aplicação diretamente via container docker com o comando abaixo, importante lembrar que a porta 8000 da maquina onde sera executada a aplicacao nao pode estar em uso.</p>
 <p><strong>docker run -p 8000:8000 diogopaza/api-saude-django-rest</strong></p>
 
 <h3>Para rodar a aplicação desenvolvida via download do GitHub:</h3>
