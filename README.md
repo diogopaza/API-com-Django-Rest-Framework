@@ -5,12 +5,6 @@
   <li>Django</li>
   <li>Django Rest Framework</li>
 </ul>
-<h4>Bibliotecas:</h4>
- <ul>
-    <li>uuid</li>
-    <li>validate_docbr</li>
-    <li>re</li>
- </ul>
  <h4>Rotas da Pessoa Profissional</h4>
  <p><strong>Verbo GET</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/ - listar todas as Pessoas Profissionais cadastradas.</p>
