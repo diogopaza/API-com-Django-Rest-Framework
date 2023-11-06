@@ -12,6 +12,8 @@
     <li>re</li>
  </ul>
  <h4>Rotas da Pessoa Profissional</h4>
+ <p><strong>Verbo GET</strong> <br>
+   http://127.0.0.1:8000/pessoa-profissional/ - listar todas as Pessoas Profissionais cadastradas.</p>
    <p><strong>Verbo POST</strong> <br>
    http://127.0.0.1:8000/pessoa-profissional/ - rota para cadastrar uma nova Pessoa Profissional. Campo cpf, possue validação através da biblioteca validate-docbr, com isso é necessário passar um cpf válido para cadastrar a pessoa profissional, bem como o celular também possue validação sendo necessário um celular como este: 11 88855-4444.</p>
   
@@ -32,6 +34,9 @@
    http://127.0.0.1:8000/pessoa-profissional/idDaPessoaProfissional - rota para excluir uma  Pessoa Profissional. </p>
 
    <h3>Rotas Consultas</h3>
+  <p><strong>Verbo GET</strong> <br>
+   http://localhost:8000/consultas/ - listar todas as Consultas cadastradas.</p>
+   
   
  
 
