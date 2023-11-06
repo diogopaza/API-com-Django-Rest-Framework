@@ -14,13 +14,13 @@
    <p><strong>http://127.0.0.1:8000/pessoa-profissional/</strong> - cadastra uma nova Pessoa Profissional</p>
   
     {
-    "nome": "diogo",
-    "nome_social": "diogo-teste",
-    "cpf": "123456789",
-    "celular": "45 99999-55511",
-    "especialidade": "medico",
-    "idade": 23,
-    "data_nascimento": "1990-05-06"
+      "nome": "diogo",
+      "nome_social": "diogo-teste",
+      "cpf": "123456789",
+      "celular": "45 99999-55511",
+      "especialidade": "medico",
+      "idade": 23,
+      "data_nascimento": "1990-05-06"
     }
   
  
